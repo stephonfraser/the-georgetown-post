@@ -1,20 +1,11 @@
 import React from 'react'
 import LargeCard from './Cards/LargeCard';
-import MediumCard from './Cards/MediumCard';
-import LatestStories from './LatestStories';
 
-const FeaturedStory = ({ storyType }) => {
+const FeaturedStory = () => {
   return (
-    <div className='featured-section'>
-      {storyType=='feature' && 
-        <LargeCard />
-      }
-      {storyType=='latest' &&
-        <LatestStories />
-      }
-      {storyType=='trending' &&
-        <LargeCard />
-      }
+    <div className='py-10'>
+      <h2>Featured News</h2>
+      <LargeCard />
     </div>
   )
 }
