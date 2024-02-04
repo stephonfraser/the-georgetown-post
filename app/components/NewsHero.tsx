@@ -4,7 +4,11 @@ import LatestStories from './LatestStories';
 import TodayStories from './TodayStories';
 import FeaturedStory from './FeaturedStory';
 
-const NewsHero = ({storyType}) => {
+interface NewsHeroProps {
+    storyType: string;
+}
+
+const NewsHero: React.FC<NewsHeroProps> = ({storyType}) => {
   return (
     <div className='featured-section'>
       {storyType=='feature' && 
