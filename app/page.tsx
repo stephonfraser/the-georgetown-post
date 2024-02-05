@@ -14,9 +14,11 @@ export default function Home() {
       <Navbar />
       <ScrollText />
       <div className="top-news flex justify-center">
-        <NewsHero storyType={'latest'}/>
-        <NewsHero storyType={'feature'}/>
-        <NewsHero storyType={'today'}/>
+        <div className="news-hero-body flex justify-center">
+          <NewsHero storyType={'latest'}/>
+          <NewsHero storyType={'feature'}/>
+          <NewsHero storyType={'today'}/>
+        </div>
       </div>
     </main>
   );

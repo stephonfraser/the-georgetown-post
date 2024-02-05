@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "The Georgetown Post",
-  description: "News written by citizens, for citizens",
+  description: "News written by citizens, for Citizens",
 };
 
 export default function RootLayout({
