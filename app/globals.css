@@ -137,6 +137,11 @@
   width: auto;
 }
 
+.news-hero-body {
+  width: 85%;
+}
+
+
 .medium-card {
   .content {
     .title {
@@ -147,4 +152,9 @@
       -webkit-box-orient: vertical;
     }
   }
+}
+
+.hoveredText:hover {
+  color: gray;
+  cursor: pointer;
 }
