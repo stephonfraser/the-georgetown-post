@@ -4,11 +4,11 @@ import Image from 'next/image'
 const LargeCard = () => {
   return (
     <div className='large-card grow pt-5'>
-        <div className='image'>
+        <div className='image object-cover	'>
             <Image src='/images/teacher-1.jpg' alt='teacher in class' width={500} height={500}/>
         </div>
         <div className='content'>
-            <div className='title text-xl secondary-font mt-5'>Teachers strike after news of not receiving salary increase</div>
+            <div className='title text-xl secondary-font mt-5 hoveredText'>Teachers strike after news of not receiving salary increase</div>
             <div className='summary text-base secondary-font text-gray-500	'>
                 The GTU plans to strike for 10 days following news that the government will not be raising their salaries for 2024.
             </div>
