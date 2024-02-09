@@ -3,54 +3,63 @@
         "title": "Teachers strike after news of not receiving salary increase",
         "category": "Education",
         "author": "Salem Brown",
+        "flag": "feature",
         "summary": "The GTU plans to strike for 10 days following news that the government will not be raising their salaries for 2024."
     },
     {
         "title": "Government in collaboration with Canadian University for educational opportunities",
         "category": "Education",
         "author": "Salem Brown",
+        "flag": "latest",
         "summary": "Toronto Metropolitan University is working with Guyana to provide courses to citizens of Guyana."
     },
     {
         "title": "Jagdeo unfazed by attempts to block financing",
         "category": "Oil and Gas",
         "author": "News Room",
+        "flag": "latest",
         "summary": "Vice President Dr. Bharrat Jagdeo on Thursday remained optimistic that the loan from the U.S. Exim Bank will be secured in 2024."
     },
     {
-        "title": "Jagdeo unfazed by attempts to block financing",
-        "category": "Oil and Gas",
+        "title": "Government provides clarity regarding banning of Skeng",
+        "category": "Entertainment",
         "author": "News Room",
-        "summary": "Vice President Dr. Bharrat Jagdeo on Thursday remained optimistic that the loan from the U.S. Exim Bank will be secured in 2024."
+        "flag": "latest",
+        "summary": "‘Skeng’ banned from performing publicly, not at private events – Benn."
     },
     {
-        "title": "Jagdeo unfazed by attempts to block financing",
-        "category": "Oil and Gas",
+        "title": "Bandits attack La Grange couple, cart off with $1M in valuables",
+        "category": "Crime",
         "author": "News Room",
-        "summary": "Vice President Dr. Bharrat Jagdeo on Thursday remained optimistic that the loan from the U.S. Exim Bank will be secured in 2024."
+        "flag": "today",
+        "summary": "A couple living at Unity Road, La Grange, West Bank Demerara were on Thursday tied up and beaten by bandits."
     },
     {
-        "title": "Jagdeo unfazed by attempts to block financing",
-        "category": "Oil and Gas",
+        "title": "Motorcyclist escapes after dropping haversack with 34 lbs of Ganja",
+        "category": "Crime",
         "author": "News Room",
-        "summary": "Vice President Dr. Bharrat Jagdeo on Thursday remained optimistic that the loan from the U.S. Exim Bank will be secured in 2024."
+        "flag": "today",
+        "summary": "Police in Region Ten (Upper Demerara-Berbice) are on the hunt for a motorcyclist who escaped on Monday"
     },
     {
-        "title": "Jagdeo unfazed by attempts to block financing",
-        "category": "Oil and Gas",
+        "title": "Fire destroys house at Industry",
+        "category": "Crime",
         "author": "News Room",
-        "summary": "Vice President Dr. Bharrat Jagdeo on Thursday remained optimistic that the loan from the U.S. Exim Bank will be secured in 2024."
+        "flag": "today",
+        "summary": "Three persons are now homeless after a fire, which was allegedly intentionally set, ripped through an Industry, East Coast Demerara (ECD) just after midday Thursday."
     },
     {
-        "title": "Jagdeo unfazed by attempts to block financing",
-        "category": "Oil and Gas",
+        "title": "Monumental $600M project launched to develop Amerindian village plans",
+        "category": "Development",
         "author": "News Room",
-        "summary": "Vice President Dr. Bharrat Jagdeo on Thursday remained optimistic that the loan from the U.S. Exim Bank will be secured in 2024."
+        "flag": "today",
+        "summary": "A monumental project, valued at US$3M (or over G$600M) was Wednesday evening launched to help indigenous communities"
     },
     {
-        "title": "Jagdeo unfazed by attempts to block financing",
-        "category": "Oil and Gas",
+        "title": "Sprint legend Fraser-Pryce to retire after Paris 2024",
+        "category": "Sports",
         "author": "News Room",
-        "summary": "Vice President Dr. Bharrat Jagdeo on Thursday remained optimistic that the loan from the U.S. Exim Bank will be secured in 2024."
+        "flag": "today",
+        "summary": "Three-time Olympic champion Shelly-Ann Fraser-Pryce says she owes it to her family to retire after the 2024 Games."
     }
 ]
